@@ -37,9 +37,3 @@ This [folder](figures/) is an output folder for all figures created by the code
 ### Parcellations
 
 This [folder](pacellations/) contains the desikankilliany parcellation in fsaverage and MNI152 spaces. It also contains precalculated spins
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgments
