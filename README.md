@@ -1,4 +1,4 @@
-# Brain Organization Analysis Project
+# Antipsychotics and Brain Organization
 
 This is a repository for the code for a project on antipsychotic medication effects on cortical thickness and the underlying brain organization.
 
