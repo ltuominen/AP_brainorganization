@@ -6,7 +6,7 @@ This is a repository for the code for a project on antipsychotic medication effe
 
 ### Data
 
-The `data` folder contains group level statistical maps:
+The [data](data/) folder contains group level statistical maps:
 + lh.sig.nii
 + rh.sig.nii
 + lh.gamma.nii
@@ -18,7 +18,7 @@ And maps corrected for multiple comparisons:
 + rh.perm.th13.abs.sig.masked.mgh
 + rh.perm.th20.abs.sig.masked.mgh
 
-It also contains parcel-wise partial correlation data from the turku sample and from the ENIGMA (https://doi.org/10.1016/j.biopsych.2018.04.023) study
+It also contains parcel-wise partial correlation data from the turku sample and from the [ENIGMA study](https://doi.org/10.1016/j.biopsych.2018.04.023).
 + turku_partial_r.csv
 + ENIGMA_S32_partial_correlation_between_cortical_thickness_and_chlorpromazine_equivalents.csv
 
@@ -32,11 +32,11 @@ and brain organization in the Turku and ENIGMA samples. It also create figs 3 an
 
 ### Figures
 
-This is the output folder for all figures created by the code
+This [folder](figures/) is an output folder for all figures created by the code
 
-### Parcellation
+### Parcellations
 
-This folder contains the desikankilliany parcellation in fsaverage and MNI152 spaces. It also contains precalculated spins
+This [folder](pacellations/) contains the desikankilliany parcellation in fsaverage and MNI152 spaces. It also contains precalculated spins
 
 ## License
 
