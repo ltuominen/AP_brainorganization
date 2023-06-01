@@ -6,6 +6,8 @@ This is a repository for the code for a project on antipsychotic medication effe
 
 ### Data
 
+Raw imaging data or individual level demographic/clinical data is not shared.  
+
 The [data](data/) folder contains group level statistical maps:
 + lh.sig.nii
 + rh.sig.nii
@@ -25,6 +27,7 @@ It also contains parcel-wise partial correlation data from the turku sample and 
 ### Code
 
 The [code](code/) folder contains the scripts and programs used to process and analyze the neuroimaging data.
+`the effect of lifetime antipsychotic exposure on cortical thickness.ipynb` contains R code to test the effects of lifetime exposure to antipsychotics on cortical thickness in the Turku sample and for sensitivity analyses.
 `plot_ap_effects_turku.ipynb` plots group level statistical maps to create [figures 1](figures/Figure1.jpg)  and [supp fig 1](figures/Supp_fig1.jpg)
 `compare_turku_enigma.ipynb` creates fig [2](figures/Figure2.jpg).
 `neuromaps_analysis_plots.ipynb` does the main comparisons between cortical thickness changes
@@ -36,4 +39,4 @@ This [folder](figures/) is an output folder for all figures created by the code
 
 ### Parcellations
 
-This [folder](pacellations/) contains the desikankilliany parcellation in fsaverage and MNI152 spaces. It also contains precalculated spins used in the analyses 
+This [folder](pacellations/) contains the desikankilliany parcellation in fsaverage and MNI152 spaces. It also contains precalculated spins used in the analyses
