@@ -1,0 +1,33 @@
+,Author/Dataset,Year,Tracer / Measure,Target
+0,Jaworska,2020,fallypride,D2
+1,Kaller,2017,sch23390,D1
+2,Radnakrishnan,2018,gsk215083,5-HT6
+3,Beliveau,2017,cimbi36,5-HT2A
+4,Savli,2012,way100635,5-HT1A
+5,Beliveau,2017,az10419369,5-HT1B
+6,Beliveau,2017,sb207145,5-HT4
+7,Fazio,2016,madam,5-HTT
+8,Tuominen,NA,feobv,vAChT
+9,Hillmer,2016,flubatine,$\alpha4 \beta2*$
+10,Naganawa,2020,lsn3172176,M1
+11,Margulies,2016,fcgradient01,Functional Gradient
+12,Mueller,2013,intersubjvar,Intersubject Variance
+13,Hcps,1200,megalpha,Alpha Power
+14,Hcps,1200,megdelta,Delta Power
+15,Hcps,1200,megbeta,Beta Power
+16,Hcps,1200,meggamma1,Low Gamma Power
+17,Hcps,1200,meggamma2,High Gamma Power
+18,Hcps,1200,megtheta,Theta Power
+19,Hcps,1200,megtimescale,Intrinsic Timescale
+20,Finnema,2016,ucbj,Synaptic Vesicles
+21,Hcps,1200,thickness,Cortical Thickness
+22,Hcps,1200,myelinmap,T1/T2
+23,Dukart,2018,flumazenil,$GABA_A$
+24,Dubois,2015,abp688,mGluR5
+25,Laurikainen,2018,fmpepd2,Cannabinoid 1
+26,Kantonen,2020,carfentanil,$\mu$-opiod
+27,Gallezot,2017,gsk189254,Histamine 3
+28,Raichle,NA,cbf,CBF
+29,Raichle,NA,cbv,CBV
+30,Raichle,NA,cmr02,$CMRO_2$
+31,Raichle,NA,cmruglu,CMRGlu
