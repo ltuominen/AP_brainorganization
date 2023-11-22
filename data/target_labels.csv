@@ -1,0 +1,32 @@
+source,class,target
+kaller2017_sch23390,dopamine,D1
+jaworska2020_fallypride,dopamine,D2
+beliveau2017_dasb,serotonin,5-HTT
+savli2012_way100635,serotonin,5-HT1A
+beliveau2017_az10419369,serotonin,5-HT1B
+beliveau2017_cimbi36,serotonin,5-HT2A
+beliveau2017_sb207145,serotonin,5-HT4
+radnakrishnan2018_gsk215083,serotonin,5-HT6
+tuominen_feobv,acetylcholine,vAChT
+hillmer2016_flubatine,acetylcholine,$\alpha4 \beta2*$
+naganawa2020_lsn3172176,acetylcholine,M1
+dukart2018_flumazenil,various,$GABA_A$
+dubois2015_abp688,various,mGluR5
+laurikainen2018_fmpepd2,various,Cannabinoid 1
+kantonen2020_carfentanil,various,$\mu$-opiod
+gallezot2017_gsk189254,various,Histamine 3
+margulies2016_fcgradient01,functional,Functional Gradient
+hcps1200_megalpha,functional,Alpha Power
+hcps1200_megbeta,functional,Beta Power
+hcps1200_megdelta,functional,Delta Power
+hcps1200_meggamma1,functional,Low Gamma Power
+hcps1200_meggamma2,functional,High Gamma Power
+hcps1200_megtheta,functional,Theta Power
+hcps1200_megtimescale,functional,Intrinsic Timescale
+finnema2016_ucbj,structural,Synaptic Vesicles
+hcps1200_thickness,structural,Cortical Thickness
+hcps1200_myelinmap,structural,T1/T2
+raichle_cbf,metabolic,CBF
+raichle_cbv,metabolic,CBV
+raichle_cmr02,metabolic,$CMRO_2$
+raichle_cmruglu,metabolic,CMRGlu
