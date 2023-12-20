@@ -30,4 +30,4 @@ hcps1200_myelinmap,structural,T1/T2
 raichle_cbf,metabolic,CBF
 raichle_cbv,metabolic,CBV
 raichle_cmr02,metabolic,$CMRO_2$
-raichle_cmrglc,metabolic,CMRGlu
+raichle_cmruglu,metabolic,CMRGlu
