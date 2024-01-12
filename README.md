@@ -1,6 +1,6 @@
-# Antipsychotics and Brain Organization
+# Molecular, physiological and functional features underlying cortical thinning related to antipsychotic medication use
 
-This is a repository for the code for a project on antipsychotic medication effects on cortical thickness and the underlying brain organization.
+This is a repository for the code for a project on antipsychotic medication effects on cortical thickness and the underlying features of brain organization.
 
 ## Folders
 
@@ -26,7 +26,7 @@ Parcel-wise partial correlation data from the turku sample and from the [ENIGMA 
 + [turku_partial_r.csv](data/turku_partial_r.csv)
 + [ENIGMA_S32_partial_correlation_between_cortical_thickness_and_chlorpromazine_equivalents.csv](data/ENIGMA_S32_partial_correlation_between_cortical_thickness_and_chlorpromazine_equivalents.csv)
 
-Precalculated neurosynth loadings 
+Precalculated neurosynth loadings
 
 ### Code
 
