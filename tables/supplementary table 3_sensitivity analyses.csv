@@ -1,9 +1,0 @@
-Covariate,Estimate,Std. Error,t-value,p-value
-Total symptoms score,-1.2E-06,2.5E-07,-4.77,0.0000053
-Positive symptoms score,-1.2E-06,2.6E-07,-4.60,0.0000106
-Negative symptoms score,-1.2E-06,2.5E-07,-4.86,0.0000036
-BMI,-1.1E-06,2.5E-07,-4.30,0.0000347
-Hospital days,-1.0E-06,3.1E-07,-3.31,0.0012269
-Times admitted,-1.1E-06,2.8E-07,-3.72,0.0003040
-GAF,-1.2E-06,2.8E-07,-4.12,0.0000688
-SOFAS,-1.2E-06,2.8E-07,-4.19,0.0000532
