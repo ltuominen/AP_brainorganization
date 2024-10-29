@@ -1,0 +1,10 @@
+predictors,Estimate,Std. Error,t value,Pr(>|t|)
+(Intercept), 2.65e+00,6.78e-02,39.09,1.27e-68
+Lifetime_ap_exposure,-1.10e-06,2.88e-07,-3.8,2.32e-04
+Age,-2.97e-03,1.02e-03,-2.9,4.42e-03
+SexF,-3.35e-02,1.45e-02,-2.31,2.29e-02
+GroupFEP,-1.87e-02,1.51e-02,-1.24,2.18e-01
+Total_symptoms_score, 7.66e-04,6.79e-04,1.13,2.61e-01
+BMI,-2.10e-03,1.14e-03,-1.85,6.71e-02
+Hospital_days,-1.97e-04,1.59e-04,-1.24,2.17e-01
+GAF, 4.39e-04,6.78e-04,0.65,5.19e-01
